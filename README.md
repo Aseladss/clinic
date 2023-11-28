@@ -41,13 +41,6 @@ php artisan migrate
 - Database: MySQL
 - Authentication: Sanctum
 
-## Installation
-
-1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Set up the database and configure environment variables.
-4. Run the application using `npm start`.
-
 ## Usage
 
 - Start the application and access the provided API endpoints.
